@@ -5,6 +5,8 @@
       <map>
         <entry key="app/src/main/res/drawable/bottom_sheet_rounded.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/bottom_sheet_layout.xml" value="0.2767210144927536" />
+        <entry key="app/src/main/res/layout/botttom_sheeet_layout.xml" value="0.2767210144927536" />
         <entry key="app/src/main/res/layout/botttom_sheet_layot.xml" value="0.2767210144927536" />
         <entry key="app/src/main/res/layout/botttom_sheet_layout.xml" value="0.18211752786220872" />
         <entry key="app/src/main/res/layout/fragment_note.xml" value="0.2767210144927536" />
